@@ -1,6 +1,6 @@
 import React, { Fragment, useState} from 'react';
 import Button from '@material-ui/core/Button';
-
+//practica
 const Contador = ( )=>{
 
     const [numero, setNumero]= useState(0);
